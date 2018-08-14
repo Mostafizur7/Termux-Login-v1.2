@@ -20,7 +20,7 @@ Hello dear!
 
 [+] install and use
   
-    git clone https://github.com/MostafizuR15/Termux-Login.git
+    git clone https://github.com/Mostafizur7/Termux-Login.git
 
     cd Termux-Login
 
