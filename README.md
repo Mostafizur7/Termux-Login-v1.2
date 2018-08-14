@@ -1,5 +1,4 @@
-#Bismillah
-#Assalamu-Alaikium
+Hello dear!
 
  [+] Information :
 
@@ -21,7 +20,7 @@
 
 [+] install and use
   
-    git clone https://github.com/TechnicalMujeeb/Termux-Login.git
+    git clone https://github.com/MostafizuR15/Termux-Login.git
 
     cd Termux-Login
 
